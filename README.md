@@ -1,5 +1,5 @@
 # Python-Service
-###### Simple service system in linux .. Created in python3
+###### Simple service system [ background processes (“daemons”) ] in linux .. Created in python3
 
 [![Python service](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 [![version](https://img.shields.io/badge/version-1.0.0-green.svg)]()
